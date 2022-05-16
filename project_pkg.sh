@@ -4,6 +4,7 @@ git clone https://github.com/Wataru-Oshima-Tokyo/camera_pkg.git
 git clone https://github.com/Wataru-Oshima-Tokyo/MG400_basic.git
 git clone https://github.com/Wataru-Oshima-Tokyo/MG400_ROS.git
 git clone https://github.com/agilexrobotics/limo_ros.git
+git clone https://github.com/lagadic/vision_visp.git
 cd ~/catkin_ws
 catkin build
 echo "if you failed, please build it several times"
